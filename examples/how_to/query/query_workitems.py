@@ -7,10 +7,10 @@ if __name__ == "__main__":
     # default logging for console output
     setup_basic_logging()
 
-    url = "https://your_domain:9443/jazz"
-    username = "your_username"
-    password = "your_password"
-    projectarea_name = "your_projectarea_name"
+    url = "https://rtc.intel.com/dng0001001"
+    username = "sys_pm"
+    password = "<,dUt<x3{T^C}RREuxa)s&~2=t8%F$JY"
+    projectarea_name = "SSG-OTC Product Management - DNG"
     myclient = RTCClient(url, username, password)
 
     # query starts here
